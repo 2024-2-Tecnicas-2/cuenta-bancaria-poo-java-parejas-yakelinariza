@@ -43,4 +43,6 @@ public class CuentaBancariaTest {
         assertEquals(1.5 , cuenta.getTipoInteres());
     
     }
+    
+    //copiado desde el otro repositorio que era individual
 }
